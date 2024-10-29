@@ -22,3 +22,4 @@ Documentos de engenharia sobre o projeto aqui-oh
 4. [visão-do-produto](./04-visão-do-produto.md)
 5. [caixa-do-produto](./05-caixa-do-produto.md) *TODO!*
 6. [personas](./06-personas.md) *TODO!*
+7. [mapa-de-emaptia](./07-mapa-de-emaptia.md) *TODO!*
