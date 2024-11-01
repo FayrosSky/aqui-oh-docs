@@ -82,7 +82,7 @@
 
 ---
 
-### 8. *Sônia, a Defensora da Acessibilidade*
+### 8. *Sônia*
    - *Idade*: 50 anos
    - *Profissão*: Advogada especializada em acessibilidade e direitos humanos
    - *Motivações*: Sônia usa cadeiras de rodas e se preocupa com a falta de acessibilidade nas áreas públicas da cidade. Ela quer denunciar locais onde o acesso é limitado ou inexistente.
