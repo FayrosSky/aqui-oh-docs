@@ -14,6 +14,6 @@
 
 ### Funcionalidades
 
-### A denúncia caso haja má postura do réu é coletada no Banco de Dados e enviada às autoridades que também fizeram a pesquisa no aplicativo Aqui, oh!;
-### Contribue para deixar a cidade limpa, honesta e sustentável;
-### A plataforma elenca, a partir desta caixa do produto, um game no Front-End que instiga mais participantes;
+- A denúncia caso haja má postura do réu é coletada no Banco de Dados e enviada às autoridades que também fizeram a pesquisa no aplicativo Aqui, oh!;
+- Contribue para deixar a cidade limpa, honesta e sustentável;
+- A plataforma elenca, a partir desta caixa do produto, um game no Front-End que instiga mais participantes;
