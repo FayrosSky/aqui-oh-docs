@@ -20,6 +20,6 @@ Documentos de engenharia sobre o projeto aqui-oh
 2. [pesquisa-de-mercado](./02-pesquisa-de-mercado.md)
 3. [e-não-e-faz-não-faz](./03-e-não-e-faz-não-faz.md)
 4. [visão-do-produto](./04-visão-do-produto.md)
-5. [caixa-do-produto](./05-caixa-do-produto.md) *TODO!*
-6. [personas](./06-personas.md) *TODO!*
-7. [mapa-de-emaptia](./07-mapa-de-emaptia.md) *TODO!*
+5. [caixa-do-produto](./05-caixa-do-produto.md)
+6. [personas](./06-personas.md)
+7. [mapa-de-emaptia](./07-mapa-de-emaptia.md)
