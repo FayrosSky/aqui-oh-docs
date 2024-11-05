@@ -23,3 +23,7 @@ Documentos de engenharia sobre o projeto aqui-oh
 5. [caixa-do-produto](./05-caixa-do-produto.md)
 6. [personas](./06-personas.md)
 7. [mapa-de-emaptia](./07-mapa-de-emaptia.md)
+
+
+## Equipe Avaliadora:
+   Equipe do Ítalo Alexandro 
