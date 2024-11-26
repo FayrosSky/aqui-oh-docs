@@ -23,6 +23,9 @@ Documentos de engenharia sobre o projeto aqui-oh
 5. [caixa-do-produto](./05-caixa-do-produto.md)
 6. [personas](./06-personas.md)
 7. [mapa-de-emaptia](./07-mapa-de-emaptia.md)
+8. [diagrama de navegação](https://octopus.do/4jmhg5nt6sn)
+9. [rabisco frame](./rabisco-frame/README.md)
+10. [flat backlog](https://docs.google.com/spreadsheets/d/1uRcSMi85alYYGLq8MqLwHy3Kw2uPLyEqB8VvQUFZ5qQ/edit?usp=sharing)
 
 
 ## Equipe Avaliadora:
