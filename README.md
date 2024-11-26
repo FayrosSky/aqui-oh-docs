@@ -27,6 +27,10 @@ Documentos de engenharia sobre o projeto aqui-oh
 9. [rabisco frame](./rabisco-frame/README.md)
 10. [flat backlog](https://docs.google.com/spreadsheets/d/1uRcSMi85alYYGLq8MqLwHy3Kw2uPLyEqB8VvQUFZ5qQ/edit?usp=sharing)
 
+## Equipe Avaliada:
+- Vet Manager
+- [repositório](https://github.com/DanielVbrn/vet_manager)
+- [**DOCUMENTO DA AVALIAÇÃO**](./outros/avaliação.md)
 
 ## Equipe Avaliadora:
-   Equipe do Ítalo Alexandro 
+Equipe do Ítalo Alexandro 
