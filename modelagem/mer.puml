@@ -1,0 +1,47 @@
+@startuml aqui-oh
+entity Competecia {
+    * id: String
+    --
+    name: String
+}
+
+entity User {
+    * id: String
+    --
+    email: String
+    name: String
+    password: String
+    passwordSalt: String
+    --
+    + competeciaId: String?
+}
+
+entity Reclamacao {
+    * id: String
+    --
+    title: String
+    --
+    + competeciaId: String
+    + userId: String
+}
+
+entity Mensagem {
+    * id: String
+    --
+    text: String
+    dth: DateTime
+    image: String?
+    lat: Float?
+    lng: Float?
+    --
+    + reclamacaoId: String
+    + userId: String
+}
+
+Competecia ||--o{ User : "emprega"
+Competecia ||--{ Reclamacao : "contempla"
+User ||--{ Reclamacao : "autora"
+Reclamacao ||--{ Mensagem : "contém"
+User ||--{ Mensagem : "autora"
+
+@enduml
